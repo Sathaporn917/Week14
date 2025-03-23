@@ -251,7 +251,7 @@
         <!-- Developer Credit -->
         <div class="developer-credit">
             <small>
-                <i class="fas fa-code me-1"></i> พัฒนาโดย 653485039 นางสาวคัมภีรพรรณ  ศุขบุญ 
+                <i class="fas fa-code me-1"></i> พัฒนาโดย 653485025 นายสถาพร  ทิพย์ไปรยา
             </small>
         </div>
     </div>

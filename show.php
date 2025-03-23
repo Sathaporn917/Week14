@@ -23,14 +23,14 @@
     <style>
         body {
             font-family: 'Kanit', sans-serif;
-            background-color: #FFF0F5; /* Soft pink background */
+            background-color: #9b9484; /* Soft pink background */
             margin: 0;
             padding: 20px;
         }
         .container-custom {
             background-color: white;
             border-radius: 15px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 6px rgba(255, 1, 1, 0.1);
             padding: 30px;
         }
         .page-header {
@@ -40,7 +40,7 @@
         }
         .page-header h1 {
             margin-left: 15px;
-            color: #FF69B4;
+            color:rgb(0, 0, 0);
         }
         .table-container {
             background-color: #FFFFFF;
@@ -82,7 +82,7 @@
         ?>
         
         <div class="page-header">
-            <i class="fas fa-users fa-3x" style="color: #FF69B4;"></i>
+            <i class="fas fa-users fa-3x" style="color:rgb(0, 0, 0);"></i>
             <h1>ข้อมูลพนักงาน</h1>
         </div>
       
@@ -152,9 +152,9 @@
         </div>
         
         <div class="footer">
-            <i class="fas fa-heart" style="color: #FF69B4;"></i> 
-            พัฒนาโดย 664485039 นางสาวคัมภีรพรรณ ศุขบุญ 
-            <i class="fas fa-heart" style="color: #FF69B4;"></i>
+            <i class="fas fa-heart" style="color:rgb(255, 0, 0);"></i> 
+            พัฒนาโดย 664485025 นายสถาพร ทิพย์ไปรยา 
+            <i class="fas fa-heart" style="color:rgb(255, 0, 128);"></i>
         </div>
     </div>
 
