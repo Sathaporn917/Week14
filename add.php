@@ -71,7 +71,7 @@
             border-color: #86b7fe;
         }
         footer {
-            background: linear-gradient(135deg, #259b24, #009688);
+            background: linear-gradient(135deg, #259b24, #ffc107);
             color: white;
             text-align: center;
             padding: 15px 0;
