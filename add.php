@@ -24,7 +24,7 @@
             padding-bottom: 60px; /* For footer space */
         }
         .navbar {
-            background: linear-gradient(135deg, #0d6efd, #0099ff);
+            background: linear-gradient(135deg, #259b24, #009688);
             color: white;
             padding: 15px 0;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -38,7 +38,7 @@
             margin-bottom: 30px;
         }
         .card-header {
-            background: linear-gradient(135deg, #0d6efd, #0099ff);
+            background: linear-gradient(135deg, #259b24, #009688);
             color: white;
             font-weight: 500;
             padding: 15px 20px;
@@ -71,7 +71,7 @@
             border-color: #86b7fe;
         }
         footer {
-            background: linear-gradient(135deg, #0d6efd, #0099ff);
+            background: linear-gradient(135deg, #259b24, #009688);
             color: white;
             text-align: center;
             padding: 15px 0;
@@ -251,7 +251,7 @@
         <!-- Developer Credit -->
         <div class="developer-credit">
             <small>
-                <i class="fas fa-code me-1"></i> พัฒนาโดย 653485025 นายสถาพร  ทิพย์ไปรยา
+                <b></i>พัฒนาโดย 664485025 นายสถาพร  ทิพย์ไปรยา</b>
             </small>
         </div>
     </div>
@@ -259,7 +259,7 @@
     <!-- Footer -->
     <footer>
         <div class="container">
-            <small>© 2025 ระบบเพิ่มช้อมูลพนักงาน| มหาวิทยาลัยราชภัฏนครปฐม</small>
+            <small></small>
         </div>
     </footer>
 

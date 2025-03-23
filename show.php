@@ -23,7 +23,7 @@
     <style>
         body {
             font-family: 'Kanit', sans-serif;
-            background-color: #9b9484; /* Soft pink background */
+            background: linear-gradient(135deg, #ff5722, #ff9800); /* Soft pink background */
             margin: 0;
             padding: 20px;
         }
@@ -150,12 +150,7 @@
                 </tbody>
             </table>
         </div>
-        
-        <div class="footer">
-            <i class="fas fa-heart" style="color:rgb(255, 0, 0);"></i> 
-            พัฒนาโดย 664485025 นายสถาพร ทิพย์ไปรยา 
-            <i class="fas fa-heart" style="color:rgb(255, 0, 128);"></i>
-        </div>
+            <b><center>พัฒนาโดย 664485025 นายสถาพร ทิพย์ไปรยา</center><b>
     </div>
 
     <!-- Scripts -->
