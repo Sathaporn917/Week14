@@ -40,7 +40,7 @@
         }
         .page-header h1 {
             margin-left: 15px;
-            color:rgb(0, 0, 0);
+            color:hsl(0, 0.00%, 0.00%);
         }
         .table-container {
             background-color: #FFFFFF;
@@ -82,8 +82,8 @@
         ?>
         
         <div class="page-header">
-            <i class="fas fa-users fa-3x" style="color:rgb(0, 0, 0);"></i>
-            <h1>ข้อมูลพนักงาน</h1>
+            <i class="fas fa-users fa-3x" style="color: #9c27b0;"></i>
+            <b><h1>ข้อมูลพนักงาน</h1></b>
         </div>
       
         <div class="user-info">
